@@ -1,0 +1,20 @@
+.group-page{
+    color: #ffffff;
+    background-color: #434343 !important;
+    padding: 10px 100px;
+    height: calc(100vh - 65px);
+    overflow-y: auto;
+    padding-top: 50px;
+    .card{
+        .card-header{
+            background-color: #999999;
+        }
+        .card-body{
+            background-color: #666666;
+        }
+    }
+    .button-search{
+        width: 100%;
+        text-align: center;
+    }
+}

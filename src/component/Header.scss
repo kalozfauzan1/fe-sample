@@ -1,0 +1,12 @@
+.header-group{
+    height: 100%;
+    ol{
+        height: 100%;
+        background-color: #666666 !important;
+        border-radius: 0rem !important;
+        border-bottom: 1px solid #ffffff;
+    }
+    .breadcrumb-item.active{
+        color: #ffffff !important;
+    }
+}

@@ -1,0 +1,514 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b96de873-5bf2-467f-92be-8e09ebea51be" name="Default Changelist" comment="add scatter pl">
+      <change afterPath="$PROJECT_DIR$/src/assets/bin.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/pencil.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/sampleStore.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Documentation/debug.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Documentation/documentation.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/github-assets/angular.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/github-assets/black-dashboard-pro-react.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/github-assets/chrome.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/github-assets/dashboard-page.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/github-assets/edge.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/github-assets/firefox.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/github-assets/html.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/github-assets/map-page.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/github-assets/notifications-page.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/github-assets/opera.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/github-assets/react.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/github-assets/safari.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/github-assets/table-page.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/github-assets/user-page.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/github-assets/vuejs.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/apple-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/favicon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/react-logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/css/black-dashboard-pro-react.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/css/black-dashboard-pro-react.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/css/black-dashboard-pro-react.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/css/nucleo-icons.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/demo/demo.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/demo/docs.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/demo/docs.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/demo/midwest.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/demo/sample.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/fonts/nucleo.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/fonts/nucleo.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/fonts/nucleo.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/fonts/nucleo.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/img/AU.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/img/BR.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/img/DE.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/img/GB.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/img/RO.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/img/US.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/img/apple-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/img/asc.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/img/bg.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/img/bg1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/img/bg13.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/img/bg14.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/img/bg15.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/img/bg16.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/img/bg3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/img/bg5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/img/card-danger.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/img/card-info.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/img/card-primary.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/img/card-success.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/img/card-warning.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/img/default-avatar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/img/desc.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/img/emilyz.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/img/favicon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/img/gucci.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/img/header.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/img/image_placeholder.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/img/img_3115.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/img/jacket.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/img/james.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/img/jana.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/img/lora.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/img/mike.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/img/placeholder.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/img/react-logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/img/robi.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/img/saint-laurent.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/img/t-shirt.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/img/tania.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/black-dashboard-pro-react.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/black-dashboard-pro-react/bootstrap/_alert.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/black-dashboard-pro-react/bootstrap/_badge.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/black-dashboard-pro-react/bootstrap/_breadcrumb.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/black-dashboard-pro-react/bootstrap/_button-group.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/black-dashboard-pro-react/bootstrap/_buttons.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/black-dashboard-pro-react/bootstrap/_card.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/black-dashboard-pro-react/bootstrap/_carousel.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/black-dashboard-pro-react/bootstrap/_close.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/black-dashboard-pro-react/bootstrap/_code.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/black-dashboard-pro-react/bootstrap/_custom-forms.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/black-dashboard-pro-react/bootstrap/_dropdown.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/black-dashboard-pro-react/bootstrap/_forms.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/black-dashboard-pro-react/bootstrap/_functions.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/black-dashboard-pro-react/bootstrap/_grid.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/black-dashboard-pro-react/bootstrap/_images.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/black-dashboard-pro-react/bootstrap/_input-group.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/black-dashboard-pro-react/bootstrap/_jumbotron.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/black-dashboard-pro-react/bootstrap/_list-group.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/black-dashboard-pro-react/bootstrap/_media.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/black-dashboard-pro-react/bootstrap/_mixins.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/black-dashboard-pro-react/bootstrap/_modal.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/black-dashboard-pro-react/bootstrap/_nav.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/black-dashboard-pro-react/bootstrap/_navbar.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/black-dashboard-pro-react/bootstrap/_pagination.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/black-dashboard-pro-react/bootstrap/_popover.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/black-dashboard-pro-react/bootstrap/_print.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/black-dashboard-pro-react/bootstrap/_progress.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/black-dashboard-pro-react/bootstrap/_reboot.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/black-dashboard-pro-react/bootstrap/_root.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/black-dashboard-pro-react/bootstrap/_tables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/black-dashboard-pro-react/bootstrap/_tooltip.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/black-dashboard-pro-react/bootstrap/_transitions.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/black-dashboard-pro-react/bootstrap/_type.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/black-dashboard-pro-react/bootstrap/_utilities.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/black-dashboard-pro-react/bootstrap/_variables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/black-dashboard-pro-react/bootstrap/mixins/_alert.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/black-dashboard-pro-react/bootstrap/mixins/_background-variant.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/black-dashboard-pro-react/bootstrap/mixins/_badge.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/black-dashboard-pro-react/bootstrap/mixins/_border-radius.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/black-dashboard-pro-react/bootstrap/mixins/_box-shadow.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/black-dashboard-pro-react/bootstrap/mixins/_breakpoints.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/black-dashboard-pro-react/bootstrap/mixins/_buttons.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/black-dashboard-pro-react/bootstrap/mixins/_caret.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/black-dashboard-pro-react/bootstrap/mixins/_clearfix.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/black-dashboard-pro-react/bootstrap/mixins/_float.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/black-dashboard-pro-react/bootstrap/mixins/_forms.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/black-dashboard-pro-react/bootstrap/mixins/_gradients.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/black-dashboard-pro-react/bootstrap/mixins/_grid-framework.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/black-dashboard-pro-react/bootstrap/mixins/_grid.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/black-dashboard-pro-react/bootstrap/mixins/_hover.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/black-dashboard-pro-react/bootstrap/mixins/_image.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/black-dashboard-pro-react/bootstrap/mixins/_list-group.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/black-dashboard-pro-react/bootstrap/mixins/_lists.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/black-dashboard-pro-react/bootstrap/mixins/_nav-divider.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/black-dashboard-pro-react/bootstrap/mixins/_pagination.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/black-dashboard-pro-react/bootstrap/mixins/_reset-text.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/black-dashboard-pro-react/bootstrap/mixins/_resize.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/black-dashboard-pro-react/bootstrap/mixins/_screen-reader.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/black-dashboard-pro-react/bootstrap/mixins/_size.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/black-dashboard-pro-react/bootstrap/mixins/_table-row.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/black-dashboard-pro-react/bootstrap/mixins/_text-emphasis.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/black-dashboard-pro-react/bootstrap/mixins/_text-hide.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/black-dashboard-pro-react/bootstrap/mixins/_text-truncate.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/black-dashboard-pro-react/bootstrap/mixins/_transition.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/black-dashboard-pro-react/bootstrap/mixins/_visibility.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/black-dashboard-pro-react/bootstrap/utilities/_align.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/black-dashboard-pro-react/bootstrap/utilities/_background.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/black-dashboard-pro-react/bootstrap/utilities/_borders.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/black-dashboard-pro-react/bootstrap/utilities/_clearfix.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/black-dashboard-pro-react/bootstrap/utilities/_display.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/black-dashboard-pro-react/bootstrap/utilities/_embed.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/black-dashboard-pro-react/bootstrap/utilities/_flex.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/black-dashboard-pro-react/bootstrap/utilities/_float.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/black-dashboard-pro-react/bootstrap/utilities/_position.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/black-dashboard-pro-react/bootstrap/utilities/_screenreaders.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/black-dashboard-pro-react/bootstrap/utilities/_shadows.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/black-dashboard-pro-react/bootstrap/utilities/_sizing.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/black-dashboard-pro-react/bootstrap/utilities/_spacing.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/black-dashboard-pro-react/bootstrap/utilities/_text.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/black-dashboard-pro-react/bootstrap/utilities/_visibility.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/black-dashboard-pro-react/custom/_alerts.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/black-dashboard-pro-react/custom/_avatars.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/black-dashboard-pro-react/custom/_badge.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/black-dashboard-pro-react/custom/_buttons.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/black-dashboard-pro-react/custom/_card.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/black-dashboard-pro-react/custom/_checkboxes-radio.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/black-dashboard-pro-react/custom/_close.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/black-dashboard-pro-react/custom/_custom-forms.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/black-dashboard-pro-react/custom/_dropdown.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/black-dashboard-pro-react/custom/_example-pages.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/black-dashboard-pro-react/custom/_fixed-plugin.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/black-dashboard-pro-react/custom/_footer.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/black-dashboard-pro-react/custom/_forms.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/black-dashboard-pro-react/custom/_functions.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/black-dashboard-pro-react/custom/_global.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/black-dashboard-pro-react/custom/_grid.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/black-dashboard-pro-react/custom/_icons.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/black-dashboard-pro-react/custom/_images.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/black-dashboard-pro-react/custom/_info-areas.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/black-dashboard-pro-react/custom/_input-group.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/black-dashboard-pro-react/custom/_misc.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/black-dashboard-pro-react/custom/_mixins.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/black-dashboard-pro-react/custom/_modal.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/black-dashboard-pro-react/custom/_nav.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/black-dashboard-pro-react/custom/_navbar.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/black-dashboard-pro-react/custom/_pagination.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/black-dashboard-pro-react/custom/_pills.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/black-dashboard-pro-react/custom/_popover.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/black-dashboard-pro-react/custom/_progress.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/black-dashboard-pro-react/custom/_reboot.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/black-dashboard-pro-react/custom/_rtl.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/black-dashboard-pro-react/custom/_sidebar-and-main-panel.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/black-dashboard-pro-react/custom/_tables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/black-dashboard-pro-react/custom/_tabs.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/black-dashboard-pro-react/custom/_timeline.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/black-dashboard-pro-react/custom/_type.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/black-dashboard-pro-react/custom/_utilities.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/black-dashboard-pro-react/custom/_variables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/black-dashboard-pro-react/custom/_white-content.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/black-dashboard-pro-react/custom/cards/_card-animation-on-hover.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/black-dashboard-pro-react/custom/cards/_card-chart.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/black-dashboard-pro-react/custom/cards/_card-collapse.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/black-dashboard-pro-react/custom/cards/_card-contributions.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/black-dashboard-pro-react/custom/cards/_card-lock.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/black-dashboard-pro-react/custom/cards/_card-map.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/black-dashboard-pro-react/custom/cards/_card-plain.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/black-dashboard-pro-react/custom/cards/_card-pricing.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/black-dashboard-pro-react/custom/cards/_card-profile.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/black-dashboard-pro-react/custom/cards/_card-register.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/black-dashboard-pro-react/custom/cards/_card-stats-mini.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/black-dashboard-pro-react/custom/cards/_card-stats.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/black-dashboard-pro-react/custom/cards/_card-subcategories.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/black-dashboard-pro-react/custom/cards/_card-task.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/black-dashboard-pro-react/custom/cards/_card-testimonials.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/black-dashboard-pro-react/custom/cards/_card-user.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/black-dashboard-pro-react/custom/cards/_card-wizard.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/black-dashboard-pro-react/custom/mixins/_alert.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/black-dashboard-pro-react/custom/mixins/_background-variant.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/black-dashboard-pro-react/custom/mixins/_badges.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/black-dashboard-pro-react/custom/mixins/_buttons.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/black-dashboard-pro-react/custom/mixins/_dropdown.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/black-dashboard-pro-react/custom/mixins/_forms.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/black-dashboard-pro-react/custom/mixins/_icon.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/black-dashboard-pro-react/custom/mixins/_inputs.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/black-dashboard-pro-react/custom/mixins/_modals.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/black-dashboard-pro-react/custom/mixins/_page-header.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/black-dashboard-pro-react/custom/mixins/_popovers.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/black-dashboard-pro-react/custom/mixins/_vendor-prefixes.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/black-dashboard-pro-react/custom/mixins/_wizard.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/black-dashboard-pro-react/custom/mixins/opacity.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/black-dashboard-pro-react/custom/utilities/_backgrounds.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/black-dashboard-pro-react/custom/utilities/_floating.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/black-dashboard-pro-react/custom/utilities/_helper.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/black-dashboard-pro-react/custom/utilities/_position.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/black-dashboard-pro-react/custom/utilities/_shadows.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/black-dashboard-pro-react/custom/utilities/_sizing.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/black-dashboard-pro-react/custom/utilities/_spacing.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/black-dashboard-pro-react/custom/utilities/_text.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/black-dashboard-pro-react/custom/utilities/_transform.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/black-dashboard-pro-react/custom/vendor/_plugin-animate-bootstrap-notify.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/black-dashboard-pro-react/custom/vendor/_plugin-bootstrap-select.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/black-dashboard-pro-react/custom/vendor/_plugin-bootstrap-switch.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/black-dashboard-pro-react/custom/vendor/_plugin-card-wizard.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/black-dashboard-pro-react/custom/vendor/_plugin-datatables.net.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/black-dashboard-pro-react/custom/vendor/_plugin-datetimepicker.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/black-dashboard-pro-react/custom/vendor/_plugin-fullcalendar.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/black-dashboard-pro-react/custom/vendor/_plugin-jasny-fileupload.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/black-dashboard-pro-react/custom/vendor/_plugin-jquery.jvectormap.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/black-dashboard-pro-react/custom/vendor/_plugin-nouislider.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/black-dashboard-pro-react/custom/vendor/_plugin-perfect-scrollbar.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/black-dashboard-pro-react/custom/vendor/_plugin-sweetalert2.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/black-dashboard-pro-react/custom/vendor/_plugin-tagsinput.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/black-dashboard-pro-react/react/_alerts.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/black-dashboard-pro-react/react/_badges.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/black-dashboard-pro-react/react/_bootstrap-rtl.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/black-dashboard-pro-react/react/_buttons.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/black-dashboard-pro-react/react/_cards.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/black-dashboard-pro-react/react/_checkboxes-radio.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/black-dashboard-pro-react/react/_dropdown.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/black-dashboard-pro-react/react/_fileinput.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/black-dashboard-pro-react/react/_fixed-plugin.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/black-dashboard-pro-react/react/_footers.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/black-dashboard-pro-react/react/_inputs.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/black-dashboard-pro-react/react/_modals.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/black-dashboard-pro-react/react/_navbar.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/black-dashboard-pro-react/react/_react-differences.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/black-dashboard-pro-react/react/_rtl.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/black-dashboard-pro-react/react/_sidebar-and-main-panel.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/black-dashboard-pro-react/react/_white-content.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/black-dashboard-pro-react/react/plugins/_plugin-react-big-calendar.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/black-dashboard-pro-react/react/plugins/_plugin-react-bootstrap-sweetalert.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/black-dashboard-pro-react/react/plugins/_plugin-react-bootstrap-switch.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/black-dashboard-pro-react/react/plugins/_plugin-react-bootstrap-wizard.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/black-dashboard-pro-react/react/plugins/_plugin-react-datetime.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/black-dashboard-pro-react/react/plugins/_plugin-react-jvectormap.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/black-dashboard-pro-react/react/plugins/_plugin-react-select.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/black-dashboard-pro-react/react/plugins/_plugin-react-table.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/black-dashboard-pro-react/react/plugins/_plugin-react-tagsinput.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/CustomUpload/ImageUpload.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/FixedPlugin/FixedPlugin.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Footer/Footer.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Navbars/AdminNavbar.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Navbars/AuthNavbar.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Navbars/RTLNavbar.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Sidebar/Sidebar.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/SortingTable/SortingTable.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/config/config.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/config/config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/layouts/Admin/Admin.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/layouts/Auth/Auth.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/layouts/RTL/RTL.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/middleware/api.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/middleware/api.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/routes.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/store/AppStore.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/store/AppStore.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/store/clusterStore.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/store/dataPrediction.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/store/modelStatusStore.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/variables/charts.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/variables/general.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/variables/icons.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/Calendar.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/Charts.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/Cluster_Analysis.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/Dashboard.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/Dashboard.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/Data_Prediction.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/Model_Status.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/New_Data_Prediction.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/Widgets.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/components/Buttons.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/components/Cluster_Controls.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/components/Cluster_Insights.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/components/Grid.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/components/Icons.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/components/Notifications.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/components/Panels.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/components/ScatterPlot.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/components/ScatterPlot.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/components/SurvivalChart.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/components/SweetAlert.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/components/Typography.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/components/data_prediction/InputFile.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/components/data_prediction/NewInputFile.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/components/data_prediction/NewInputFile.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/components/model_status/Model_Performance.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/components/model_status/Roc.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/components/model_status/TopTenVariablePlot.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/components/model_status/Training_Summary.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/forms/ExtendedForms.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/forms/RegularForms.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/forms/ValidationForms.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/forms/Wizard.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/forms/WizardSteps/Step1.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/forms/WizardSteps/Step2.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/forms/WizardSteps/Step3.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/maps/FullScreenMap.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/maps/GoogleMaps.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/maps/VectorMap.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/pages/Lock.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/pages/Login.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/pages/Pricing.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/pages/Register.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/pages/Rtl.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/pages/Timeline.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/pages/User.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/tables/ConfusionMatrixTables.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/tables/DragAndDrop.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/tables/ExtendedTables.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/tables/PredictionTables.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/tables/PredictionsTables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/tables/ReactTables.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/tables/RegularTables.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/tables/ResultTable.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/tables/ResultsDetail.jsx" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Wva8LJCIBhY2p2xujytE8WeQBB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="GO_FMT" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.vendoring.notification.had.been.shown" value="true" />
+    <property name="javascript.nodejs.core.library.configured.version" value="10.16.0" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/assets" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\kaloz\web\fe-sample\src\assets" />
+      <recent name="$PROJECT_DIR$/src/assets/demo" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.start" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b96de873-5bf2-467f-92be-8e09ebea51be" name="Default Changelist" comment="" />
+      <created>1580032361401</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580032361401</updated>
+      <workItem from="1580032364241" duration="3125000" />
+      <workItem from="1580058169940" duration="3693000" />
+      <workItem from="1580137366674" duration="5069000" />
+      <workItem from="1580308212329" duration="1100000" />
+      <workItem from="1580623028857" duration="5000" />
+      <workItem from="1580833027357" duration="2017000" />
+      <workItem from="1580916400612" duration="3851000" />
+      <workItem from="1581002965378" duration="2481000" />
+      <workItem from="1581346779095" duration="3417000" />
+      <workItem from="1581438854398" duration="498000" />
+      <workItem from="1581441206976" duration="1516000" />
+      <workItem from="1581601123436" duration="3301000" />
+      <workItem from="1581862793384" duration="1993000" />
+      <workItem from="1581865837012" duration="1888000" />
+      <workItem from="1585814948798" duration="4169000" />
+    </task>
+    <task id="LOCAL-00001" summary="initial">
+      <created>1580228319514</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1580228319514</updated>
+    </task>
+    <task id="LOCAL-00002" summary="add roc feature">
+      <created>1580308876607</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1580308876607</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial" />
+    <MESSAGE value="add roc feature" />
+    <option name="LAST_COMMIT_MESSAGE" value="add roc feature" />
+  </component>
+</project>
